@@ -77,11 +77,8 @@
 		0F9FD9471A8752B900CB38D5 /* calculator */ = {
 			isa = PBXGroup;
 			children = (
-				0F9FD94A1A8752B900CB38D5 /* AppDelegate.swift */,
 				0F9FD94C1A8752B900CB38D5 /* ViewController.swift */,
 				0F9FD94E1A8752B900CB38D5 /* Main.storyboard */,
-				0F9FD9511A8752B900CB38D5 /* Images.xcassets */,
-				0F9FD9531A8752B900CB38D5 /* LaunchScreen.xib */,
 				0F9FD9481A8752B900CB38D5 /* Supporting Files */,
 			);
 			path = calculator;
@@ -90,6 +87,9 @@
 		0F9FD9481A8752B900CB38D5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0F9FD9511A8752B900CB38D5 /* Images.xcassets */,
+				0F9FD94A1A8752B900CB38D5 /* AppDelegate.swift */,
+				0F9FD9531A8752B900CB38D5 /* LaunchScreen.xib */,
 				0F9FD9491A8752B900CB38D5 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -161,6 +161,7 @@
 				TargetAttributes = {
 					0F9FD9441A8752B900CB38D5 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 6B8RPRP876;
 					};
 					0F9FD9591A8752B900CB38D5 = {
 						CreatedOnToolsVersion = 6.1.1;
